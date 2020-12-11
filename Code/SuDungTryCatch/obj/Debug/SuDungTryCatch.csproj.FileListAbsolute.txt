@@ -1,0 +1,7 @@
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungTryCatch\obj\Debug\SuDungTryCatch.csprojAssemblyReference.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungTryCatch\obj\Debug\SuDungTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungTryCatch\bin\Debug\SuDungTryCatch.exe.config
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungTryCatch\bin\Debug\SuDungTryCatch.exe
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungTryCatch\bin\Debug\SuDungTryCatch.pdb
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungTryCatch\obj\Debug\SuDungTryCatch.exe
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungTryCatch\obj\Debug\SuDungTryCatch.pdb

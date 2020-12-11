@@ -1,0 +1,6 @@
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TimSoNhoNhat\obj\Debug\TimSoNhoNhat.csproj.CoreCompileInputs.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TimSoNhoNhat\bin\Debug\TimSoNhoNhat.exe.config
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TimSoNhoNhat\bin\Debug\TimSoNhoNhat.exe
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TimSoNhoNhat\bin\Debug\TimSoNhoNhat.pdb
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TimSoNhoNhat\obj\Debug\TimSoNhoNhat.exe
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TimSoNhoNhat\obj\Debug\TimSoNhoNhat.pdb
