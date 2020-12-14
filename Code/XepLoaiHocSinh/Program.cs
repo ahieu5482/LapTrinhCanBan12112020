@@ -16,11 +16,12 @@ namespace XepLoaiHocSinh
                 Console.WriteLine("Nhap diem: ");
                 bool kt = double.TryParse(Console.ReadLine(), out diem);
                 if (kt == false)
-                { throw new Exception("Diem khong dung dinh dang");
+                { 
+                    throw new Exception("Diem khong dung dinh dang");
                 }
                     if (diem < 0 || diem > 10)
-                    {
-                        throw new Exception("Diem khong dung dinh dang");
+                          {
+                  throw new Exception("Diem khong dung dinh dang");
                     }
                 if (diem >= 0 && diem <3.5)
                     Console.WriteLine("Kem");
@@ -31,20 +32,12 @@ namespace XepLoaiHocSinh
                 else if (diem >6.5  && diem < 8.5)
                     Console.WriteLine("Kha");
                 else
-                    Console.WriteLine("Gioi");
-                
-
-                
-                
-
-                
+                    Console.WriteLine("Gioi");               
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message);
-                
+                Console.WriteLine(ex.Message);                
             }
-
         }
     }
 }
