@@ -1,0 +1,13 @@
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\bin\Debug\netcoreapp3.1\SuDungStruct.exe
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\bin\Debug\netcoreapp3.1\SuDungStruct.deps.json
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\bin\Debug\netcoreapp3.1\SuDungStruct.runtimeconfig.json
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\bin\Debug\netcoreapp3.1\SuDungStruct.runtimeconfig.dev.json
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\bin\Debug\netcoreapp3.1\SuDungStruct.dll
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\bin\Debug\netcoreapp3.1\SuDungStruct.pdb
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\obj\Debug\netcoreapp3.1\SuDungStruct.csprojAssemblyReference.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\obj\Debug\netcoreapp3.1\SuDungStruct.AssemblyInfoInputs.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\obj\Debug\netcoreapp3.1\SuDungStruct.AssemblyInfo.cs
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\obj\Debug\netcoreapp3.1\SuDungStruct.csproj.CoreCompileInputs.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\obj\Debug\netcoreapp3.1\SuDungStruct.dll
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\obj\Debug\netcoreapp3.1\SuDungStruct.pdb
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungStruct\obj\Debug\netcoreapp3.1\SuDungStruct.genruntimeconfig.cache

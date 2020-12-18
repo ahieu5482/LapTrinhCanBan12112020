@@ -11,20 +11,50 @@ namespace SuDungHamTiepTheo
         public string DiaChi { get; set; }
         public string CMND { get; set; }
     }
+
+    struct PhuongTrinhBac1
+    {
+        public double soa { get; set; }
+        public double sob { get; set; }
+        public double GiaiPhuongTrinh()
+        {
+            if (soa == 0)
+                if (sob == 0)
+                    throw new Exception("PT vo so nghiem");
+                else
+                    throw new Exception("PT vo nghiem");
+
+            return -this.sob / this.soa; 
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            SinhVien teo = new SinhVien()
+            try
+            { 
+                PhuongTrinhBac1 PT1 = new PhuongTrinhBac1();
+                PT1.soa = 1;
+                PT1.sob = 2;
+                double kq = PT1.GiaiPhuongTrinh();
+                Console.WriteLine(kq);
+            }
+            catch (Exception ex)
             {
-                MaSinhVien = "001",
-                TenSinhVien = "Teo Nguyen",
-                CMND = "0123456789",
-                DiaChi = "HCM",
-                NgaySinh = new DateTime(2000, 1, 1),
-                SDT = "09000001"
-            };
-            Console.WriteLine(teo.TenSinhVien);
+                Console.WriteLine(ex.Message);
+            }
+           
+            
+            // SinhVien teo = new SinhVien()
+            //{
+            //    MaSinhVien = "001",
+            //    TenSinhVien = "Teo Nguyen",
+            //    CMND = "0123456789",
+            //    DiaChi = "HCM",
+            //    NgaySinh = new DateTime(2000, 1, 1),
+            //    SDT = "09000001"
+            //};
+            //Console.WriteLine(teo.TenSinhVien);
             // menu cua phan mem
             //Menu();
         }

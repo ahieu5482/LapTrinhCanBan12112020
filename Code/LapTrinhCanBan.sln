@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungLenhWhile", "SuDungLe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungHam", "SuDungHam\SuDungHam.csproj", "{45A78D97-17A5-4BA3-9FF8-F1D310FC87B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungHamTiepTheo", "SuDungHamTiepTheo\SuDungHamTiepTheo.csproj", "{C5EC1C35-B1B4-4C49-A7BD-4A062BD270FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungHamTiepTheo", "SuDungHamTiepTheo\SuDungHamTiepTheo.csproj", "{C5EC1C35-B1B4-4C49-A7BD-4A062BD270FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungStruct", "SuDungStruct\SuDungStruct.csproj", "{31B217E4-B8EB-419F-9FA7-26304FE52802}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{C5EC1C35-B1B4-4C49-A7BD-4A062BD270FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5EC1C35-B1B4-4C49-A7BD-4A062BD270FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5EC1C35-B1B4-4C49-A7BD-4A062BD270FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B217E4-B8EB-419F-9FA7-26304FE52802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B217E4-B8EB-419F-9FA7-26304FE52802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B217E4-B8EB-419F-9FA7-26304FE52802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B217E4-B8EB-419F-9FA7-26304FE52802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
