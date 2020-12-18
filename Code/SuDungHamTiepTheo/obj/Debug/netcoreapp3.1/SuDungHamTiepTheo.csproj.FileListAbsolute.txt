@@ -1,0 +1,13 @@
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\bin\Debug\netcoreapp3.1\SuDungHamTiepTheo.exe
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\bin\Debug\netcoreapp3.1\SuDungHamTiepTheo.deps.json
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\bin\Debug\netcoreapp3.1\SuDungHamTiepTheo.runtimeconfig.json
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\bin\Debug\netcoreapp3.1\SuDungHamTiepTheo.runtimeconfig.dev.json
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\bin\Debug\netcoreapp3.1\SuDungHamTiepTheo.dll
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\bin\Debug\netcoreapp3.1\SuDungHamTiepTheo.pdb
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\obj\Debug\netcoreapp3.1\SuDungHamTiepTheo.AssemblyInfoInputs.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\obj\Debug\netcoreapp3.1\SuDungHamTiepTheo.AssemblyInfo.cs
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\obj\Debug\netcoreapp3.1\SuDungHamTiepTheo.csproj.CoreCompileInputs.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\obj\Debug\netcoreapp3.1\SuDungHamTiepTheo.dll
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\obj\Debug\netcoreapp3.1\SuDungHamTiepTheo.pdb
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\obj\Debug\netcoreapp3.1\SuDungHamTiepTheo.genruntimeconfig.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\SuDungHamTiepTheo\obj\Debug\netcoreapp3.1\SuDungHamTiepTheo.csprojAssemblyReference.cache
