@@ -1,0 +1,13 @@
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.exe
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.deps.json
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.runtimeconfig.json
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.runtimeconfig.dev.json
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.dll
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.pdb
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.csprojAssemblyReference.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.AssemblyInfoInputs.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.AssemblyInfo.cs
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.dll
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.pdb
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\QuanLiSinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.genruntimeconfig.cache
