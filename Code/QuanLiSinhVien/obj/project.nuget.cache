@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pWboCexBUhbO1fFqSJfFJiojSsLMgB7zXQm75O8OCqZICs5Nzn2TYzynTyD8KH62pgXihORUIDmZ9yX7T/e6zA==",
+  "dgSpecHash": "Ju5hMX+7Uv24rL5sCegxMXXDLhWZj8bGwENh/itWEY9/OE5WDarjspfoVjLsJ6WMYliEjstCdjC6HJKY+S7t6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\NN\\Documents\\GitHub\\LapTrinhCanBan12112020\\Code\\QuanLiSinhVien\\QuanLySinhVien.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\NN\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\NN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

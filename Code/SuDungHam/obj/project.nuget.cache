@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CMP3FB68vPgslVHKIXOgmeXuWf146X3ovP6ddHVMj5Z7HHC9jI1mJLkyJTi61+KHDhiyneEyoKoaaRu+Ovgpaw==",
+  "dgSpecHash": "BJRqQJP6gbP3bqJV7awl9vt3AeURltXSe01GEs4XY8SnM/ologsI4hxBkwBEaawwfuAkSMMIMS4Ojc6beuVhsg==",
   "success": true,
   "projectFilePath": "C:\\Users\\NN\\Documents\\GitHub\\LapTrinhCanBan12112020\\Code\\SuDungHam\\SuDungHam.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\NN\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\NN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

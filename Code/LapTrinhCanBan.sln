@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungHamTiepTheo", "SuDung
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungStruct", "SuDungStruct\SuDungStruct.csproj", "{31B217E4-B8EB-419F-9FA7-26304FE52802}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLySinhVien", "QuanLiSinhVien\QuanLySinhVien.csproj", "{6AE52BFB-948F-4E6F-A2B5-AC5D91CD9CFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuanLySinhVien", "QuanLiSinhVien\QuanLySinhVien.csproj", "{6AE52BFB-948F-4E6F-A2B5-AC5D91CD9CFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm1", "WinForm1\WinForm1.csproj", "{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{6AE52BFB-948F-4E6F-A2B5-AC5D91CD9CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AE52BFB-948F-4E6F-A2B5-AC5D91CD9CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AE52BFB-948F-4E6F-A2B5-AC5D91CD9CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
