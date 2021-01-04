@@ -63,5 +63,10 @@ namespace WinForm1
         {
 
         }
+
+        private void FormTongHaiSo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
