@@ -1,0 +1,10 @@
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\bin\Debug\TestConnectDatabase.exe.config
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\bin\Debug\TestConnectDatabase.exe
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\bin\Debug\TestConnectDatabase.pdb
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.csprojAssemblyReference.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.Form1.resources
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.Properties.Resources.resources
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.csproj.GenerateResource.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.csproj.CoreCompileInputs.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.exe
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.pdb
