@@ -8,3 +8,5 @@ C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj
 C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.csproj.CoreCompileInputs.cache
 C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.exe
 C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.pdb
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.FormThemLoai.resources
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan12112020\Code\TestConnectDatabase\obj\Debug\TestConnectDatabase.FormSuaLoai.resources

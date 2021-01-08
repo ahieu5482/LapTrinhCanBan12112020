@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformDatabase", "WinformD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConnectDatabase", "TestConnectDatabase\TestConnectDatabase.csproj", "{D2DE1702-AF5D-48E3-BA35-126EF12DDEAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungLinQ", "SuDungLinQ\SuDungLinQ.csproj", "{1F810339-C1EE-4E2C-8E2D-64161A2A018E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{D2DE1702-AF5D-48E3-BA35-126EF12DDEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2DE1702-AF5D-48E3-BA35-126EF12DDEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2DE1702-AF5D-48E3-BA35-126EF12DDEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F810339-C1EE-4E2C-8E2D-64161A2A018E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F810339-C1EE-4E2C-8E2D-64161A2A018E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F810339-C1EE-4E2C-8E2D-64161A2A018E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F810339-C1EE-4E2C-8E2D-64161A2A018E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

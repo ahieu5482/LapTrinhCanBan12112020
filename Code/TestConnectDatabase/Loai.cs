@@ -82,9 +82,9 @@ namespace TestConnectDatabase
             throw new NotImplementedException();
         }
 
-        public void SuaLoai()
+        internal void SuaLoai()
         {
-            string sql = string.Format(@"update Loai set(TenLoai = N'{0}', MoTa = N'{1}', Hinh = N'{2}' where MaLoai = {3})", TenLoai, MoTa, Hinh, MaLoai);
+            string sql = string.Format(@"update Loai set TenLoai = N'{0}', MoTa = N'{1}', Hinh = N'{2}' where MaLoai = {3}", TenLoai, MoTa, Hinh, MaLoai);
             this.InsertQuery(sql);
         }
     }

@@ -45,12 +45,14 @@
             this.btnChonFile = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDanhSachLoai)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // dgvDanhSachLoai
             // 
+            this.dgvDanhSachLoai.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.dgvDanhSachLoai.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDanhSachLoai.Location = new System.Drawing.Point(12, 102);
             this.dgvDanhSachLoai.Name = "dgvDanhSachLoai";
@@ -60,6 +62,7 @@
             // 
             // txtTuKhoa
             // 
+            this.txtTuKhoa.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txtTuKhoa.Location = new System.Drawing.Point(12, 76);
             this.txtTuKhoa.Name = "txtTuKhoa";
             this.txtTuKhoa.Size = new System.Drawing.Size(330, 20);
@@ -67,6 +70,7 @@
             // 
             // btnTimKiem
             // 
+            this.btnTimKiem.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btnTimKiem.Location = new System.Drawing.Point(12, 46);
             this.btnTimKiem.Name = "btnTimKiem";
             this.btnTimKiem.Size = new System.Drawing.Size(92, 24);
@@ -77,6 +81,7 @@
             // 
             // btnThem
             // 
+            this.btnThem.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btnThem.Location = new System.Drawing.Point(597, 415);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
@@ -87,6 +92,7 @@
             // 
             // label1
             // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(594, 103);
             this.label1.Name = "label1";
@@ -96,6 +102,7 @@
             // 
             // txtMaLoai
             // 
+            this.txtMaLoai.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txtMaLoai.Location = new System.Drawing.Point(597, 120);
             this.txtMaLoai.Name = "txtMaLoai";
             this.txtMaLoai.Size = new System.Drawing.Size(258, 20);
@@ -103,6 +110,7 @@
             // 
             // label2
             // 
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(594, 156);
             this.label2.Name = "label2";
@@ -112,6 +120,7 @@
             // 
             // txtTenLoai
             // 
+            this.txtTenLoai.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txtTenLoai.Location = new System.Drawing.Point(597, 173);
             this.txtTenLoai.Name = "txtTenLoai";
             this.txtTenLoai.Size = new System.Drawing.Size(258, 20);
@@ -119,6 +128,7 @@
             // 
             // label3
             // 
+            this.label3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(594, 210);
             this.label3.Name = "label3";
@@ -128,6 +138,7 @@
             // 
             // txtMoTa
             // 
+            this.txtMoTa.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txtMoTa.Location = new System.Drawing.Point(597, 226);
             this.txtMoTa.Multiline = true;
             this.txtMoTa.Name = "txtMoTa";
@@ -137,6 +148,7 @@
             // 
             // label4
             // 
+            this.label4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(594, 351);
             this.label4.Name = "label4";
@@ -146,6 +158,7 @@
             // 
             // txtHinhAnh
             // 
+            this.txtHinhAnh.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txtHinhAnh.Location = new System.Drawing.Point(597, 368);
             this.txtHinhAnh.Name = "txtHinhAnh";
             this.txtHinhAnh.Size = new System.Drawing.Size(158, 20);
@@ -153,6 +166,7 @@
             // 
             // btnXoa
             // 
+            this.btnXoa.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btnXoa.Location = new System.Drawing.Point(780, 415);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 23);
@@ -162,6 +176,7 @@
             // 
             // btnSua
             // 
+            this.btnSua.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btnSua.Location = new System.Drawing.Point(690, 415);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 23);
@@ -172,6 +187,7 @@
             // 
             // btnChonFile
             // 
+            this.btnChonFile.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btnChonFile.Location = new System.Drawing.Point(763, 364);
             this.btnChonFile.Name = "btnChonFile";
             this.btnChonFile.Size = new System.Drawing.Size(92, 24);
@@ -186,11 +202,23 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox1.Location = new System.Drawing.Point(597, 13);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(258, 83);
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
+            // 
+            // button1
+            // 
+            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button1.Location = new System.Drawing.Point(348, 74);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(24, 23);
+            this.button1.TabIndex = 9;
+            this.button1.Text = "+";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
@@ -198,6 +226,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(868, 450);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnChonFile);
             this.Controls.Add(this.btnSua);
@@ -243,6 +272,7 @@
         private System.Windows.Forms.Button btnChonFile;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button button1;
     }
 }
 
