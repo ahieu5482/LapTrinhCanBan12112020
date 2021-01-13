@@ -20,27 +20,11 @@ namespace SuDungLinQ
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            dgvDanhSachHangHoa.DataSource = _dataBase.HangHoas.Where(item => item.TenHH.Contains(txtTuKhoa.Text)
-            || item.NhaCungCap.TenCongTy.Contains(txtTuKhoa.Text)
-            || item.MoTa.Contains(txtTuKhoa.Text)
-            || item.MoTaDonVi.Contains(txtTuKhoa.Text))
-            //dgvDanhSachHangHoa.DataSource = _dataBase.HangHoas.Where(item => item.MaHH != null)
-            .Select(hh => new
-            {
-                MaHH = hh.MaHH,
-                TenHH = hh.TenHH,
-                MaLoai = hh.MaLoai,
-                TenLoai = hh.Loai.TenLoai,
-                MoTaDonVi = hh.MoTaDonVi,
-                DonGia = hh.DonGia,
-                Hinh = hh.Hinh,
-                NgaySX = hh.NgaySX,
-                GiamGia = hh.GiamGia,
-                SoLanXem = hh.SoLanXem,
-                MoTa = hh.MoTa,
-                MaNCC = hh.MaNCC,
-                TenCongTy = hh.NhaCungCap.TenCongTy,
-            }).ToList();
+            int maHangHoa = int.Parse(dgvDanhSachHangHoa.Rows[e.RowIndex].Cells["MaHH"].Value.ToString());
+            Form formSua = new FormSua(maHangHoa);
+            var isOK = formSua.ShowDialog();
+            if (isOK == DialogResult.OK)
+                LoadDanhSachHangHoa();
         }
 
         private void FormHangHoa_Load(object sender, EventArgs e)
@@ -102,7 +86,19 @@ namespace SuDungLinQ
                 MaNCC = hh.MaNCC,
                 TenCongTy = hh.NhaCungCap.TenCongTy,
             }).ToList();
-            MessageBox.Show(loaiChon.MaLoai.ToString());
+        }
+
+        private void btnTim_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            Form formThemHH = new FormThemHangHoa();
+            var isOK = formThemHH.ShowDialog();
+            if (isOK == DialogResult.OK)
+                LoadDanhSachHangHoa();
         }
     }
 }
